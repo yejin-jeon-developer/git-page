@@ -297,7 +297,7 @@ defaults:
   # portfolio
   - scope:
       path: ""
-      type: "portfolio"
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -310,7 +310,6 @@ defaults:
       toc_sticky: true
       classes: wide
       header:
-        #   teaser: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
         overlay_image: https://source.unsplash.com/featured/?portfolio
         overlay_filter: 0.4
         caption: "Photo credit: [**Unsplash**](https://source.unsplash.com/featured/?portfolio)"
