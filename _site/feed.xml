@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-29T17:11:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yejin’s Page</title><subtitle>Developer</subtitle><author><name>Jeon Yejin</name><email>yemong1226@gmail.com</email></author><entry><title type="html">Test2</title><link href="http://localhost:4000/react/test2/" rel="alternate" type="text/html" title="Test2" /><published>2022-03-29T00:00:00+09:00</published><updated>2022-03-29T00:00:00+09:00</updated><id>http://localhost:4000/react/test2</id><content type="html" xml:base="http://localhost:4000/react/test2/"><![CDATA[<h1 id="welcome">Welcome</h1>
+
+<p>test2</p>]]></content><author><name>Jeon Yejin</name><email>yemong1226@gmail.com</email></author><category term="react" /><summary type="html"><![CDATA[Welcome]]></summary></entry><entry><title type="html">Spring boot</title><link href="http://localhost:4000/spring-boot/test/" rel="alternate" type="text/html" title="Spring boot" /><published>2022-03-29T00:00:00+09:00</published><updated>2022-03-29T00:00:00+09:00</updated><id>http://localhost:4000/spring-boot/test</id><content type="html" xml:base="http://localhost:4000/spring-boot/test/"><![CDATA[<h1 id="welcome">Welcome</h1>
+
+<p><strong>Hello world</strong></p>
+
+<figure class="third ">
+  
+    
+      <a href="https://flic.kr/p/8a6Ven">
+          <img src="https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg" alt="Black and grays with a hint of green" />
+      </a>
+    
+  
+    
+      <a href="https://flic.kr/p/8a738X">
+          <img src="https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg" alt="Made for open text placement" />
+      </a>
+    
+  
+    
+      <a href="https://flic.kr/p/8a6VXP">
+          <img src="https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg" alt="Fog in the trees" />
+      </a>
+    
+  
+  
+    <figcaption>This is a second gallery example with images hosted externally.
+</figcaption>
+  
+</figure>]]></content><author><name>Jeon Yejin</name><email>yemong1226@gmail.com</email></author><category term="spring-boot" /><summary type="html"><![CDATA[test]]></summary></entry></feed>
