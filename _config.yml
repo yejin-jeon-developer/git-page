@@ -297,7 +297,7 @@ defaults:
   # portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: "portfolio"
     values:
       layout: single
       author_profile: true
