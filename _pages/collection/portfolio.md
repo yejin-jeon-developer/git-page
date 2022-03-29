@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /portfolio/
+permalink: /portfolio
 collection: portfolio
 sort_by: order
 sort_order: reverse
