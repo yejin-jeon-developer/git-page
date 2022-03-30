@@ -5,6 +5,7 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+author_profile: true
 header:
   overlay_image: https://source.unsplash.com/featured/?portfolio
   overlay_filter: 0.4
