@@ -1,6 +1,6 @@
 var store = [{
         "title": "Test",
-        "excerpt":"Welcome   Hello world~~~                                                                                                                                This is a second gallery example with images hosted externally.      ","categories": [],
+        "excerpt":"Welcome   Hello world~~                                                                                                                                This is a second gallery example with images hosted externally.      ","categories": [],
         "tags": [],
         "url": "/portfolio/2022-03-29-test/",
         "teaser": "https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg"
