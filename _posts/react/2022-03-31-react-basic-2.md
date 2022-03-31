@@ -4,12 +4,14 @@ excerpt: "React 사용법"
 categories:
   - react
 ---
-##React 시작하기
+## React 시작하기
+
 1. 리액트를 작업할 때 webpack 이나 parcel 같은 번들러를 이용해서 작업
 2. 리액트 파일은 JSX 문법으로 작성되거나 최신 JS 문법으로 작성되기 때문에, babel 을 사용해서 브라우저 호환성을 생각해야함
 3. facebook이 강력한 리액트 개발 도구를 지원 : create-react-app (Node.js 설치 필요)
 
-##Create React App 사용하기
+## Create React App 사용하기
+
 1. Node.js 설치
 ```
 $ brew update
