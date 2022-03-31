@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "React 기초 정리",
-        "excerpt":"React 시작하기 리액트를 작업할 때 webpack 이나 parcel 같은 번들러를 이용해서 작업 리액트 파일은 JSX 문법으로 작성되거나 최신 JS 문법으로 작성되기 때문에, babel 을 사용해서 브라우저 호환성을 생각해야함 React 특징 JSX 문법 JSX는 자바스크립트 안에서 HTML 문법을 사용해서 view를 구성할 수 있게 도와주는 자바스크립트 문법 class HelloMessage extends React.Component {...","categories": ["react"],
+        "excerpt":"React 시작하기     리액트를 작업할 때 webpack 이나 parcel 같은 번들러를 이용해서 작업   리액트 파일은 JSX 문법으로 작성되거나 최신 JS 문법으로 작성되기 때문에, babel 을 사용해서 브라우저 호환성을 생각해야함   facebook이 강력한 리액트 개발 도구를 지원 : create-react-app (Node.js 설치 필요)  ","categories": ["react"],
         "tags": [],
         "url": "/react/react-basic-2/",
         "teaser": null

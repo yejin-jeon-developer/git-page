@@ -7,28 +7,23 @@ categories:
 React 시작하기
 1. 리액트를 작업할 때 webpack 이나 parcel 같은 번들러를 이용해서 작업
 2. 리액트 파일은 JSX 문법으로 작성되거나 최신 JS 문법으로 작성되기 때문에, babel 을 사용해서 브라우저 호환성을 생각해야함
+3. facebook이 강력한 리액트 개발 도구를 지원 : create-react-app (Node.js 설치 필요)
 
-React 특징
-1. JSX 문법 
-   - JSX는 자바스크립트 안에서 HTML 문법을 사용해서 view를 구성할 수 있게 도와주는 자바스크립트 문법
+Create React App 사용하기
+1. Node.js 설치
 ```
-class HelloMessage extends React.Component {
-  render() {
-    return (
-      <div>
-        Hello {this.props.name}
-      </div>
-    );
-  }
-}
+$ brew update
+$ brew install node
+$ node -v
+$ npm -v
 ```
-
-2. Component 기반
-   - 리액트는 컴포넌트 기반 라이브러리
-   - 코드의 재사용성과 유지보수성을 증가
-
-
-3. Virtual DOM
-   - DOM 자체가 추상화 개념인데, 거기에 한번 더 추상화를 한 것이 가상 DOM
-   - 가상 DOM을 사용하는 이유는, 실제 DOM을 직접 변경할 수는 있지만, 그 작업이 굉장히 값비싼 작업이기 때문에, 가상 돔에서 미리 최적화
-   ![Alt text](https://miro.medium.com/max/1400/1*Vvi4_infsE8Q0uAStZmiWw.png)
+2. 터미널 실행 후 명령어 입력
+```
+$ npx create-react-app hello
+```
+참고사항 : npx란 자바스크립트 패키지 관리 모듈인 npm(Node Package Module)의 5.2.0 버전부터 새로 추가된 도구
+3. 리액트 앱 실행
+```
+$ cd hello
+$ npm start
+```
