@@ -1,15 +1,15 @@
 ---
-title:  "React 기초 정리"
+title:  "React 기초 정리 1"
 excerpt: "React 전반적인 특징"
 categories:
   - react
 ---
-React란?
+##React란?
 1. 프론트엔드 진영에는 3개의 라이브러리 OR 프레임워크가 경쟁 중
    - React, Angular, Vue 
 2. React는 페이스북이 만든 사용자 UI 구축을 위한 라이브러리
 
-React 특징
+##React 특징
 1. JSX 문법 
    - JSX는 자바스크립트 안에서 HTML 문법을 사용해서 view를 구성할 수 있게 도와주는 자바스크립트 문법
 ```
