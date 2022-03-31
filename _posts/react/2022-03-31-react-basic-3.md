@@ -24,3 +24,4 @@ index.js와 App.js 의 동작 방식이 중요
     
     reportWebVitals();
 ```
+
