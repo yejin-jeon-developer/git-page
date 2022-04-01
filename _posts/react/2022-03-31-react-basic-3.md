@@ -60,5 +60,5 @@ React 코드를 생성하는 부분
    - render() = 리액트 컴포넌트 메소드
    - 화면에 html 뷰를 생성해주는 역할
    - return 값은 html 코드로 바뀌게됨
-2) App 클래스를 export 문법을 이용해서 내보냅
+2) App 클래스를 export 문법을 이용해서 내보냄
 
