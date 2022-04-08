@@ -1,5 +1,5 @@
 ---
-title: "React"
+title: "Toy Project - Dstagram"
 layout: archive
 permalink: categories/dstagram
 author_profile: true
