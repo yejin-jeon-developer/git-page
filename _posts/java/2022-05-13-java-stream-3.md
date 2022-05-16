@@ -47,3 +47,36 @@ public interface Comparator<T> {
     // o1 > o2 양수 리턴
 }
 ```
+Collections.sort 사용시 Comparator를 넘겨줘서 sorting 가능
+```java
+  public static <T> void sort(List<T> list, Comparator<? super T> c) {
+        list.sort(c);
+        }
+```
+
+```java
+  public class Study {
+    public static void main(String[] args) {
+        List<User> userList = new ArrayList<>();
+        userList.add(new User(3, "A"));
+        userList.add(new User(1, "B"));
+        userList.add(new User(5, "C"));
+        System.out.println(userList);
+
+        // ID 순서로 sort해보자
+        Comparator<User> idComparator = (u1, u2) -> u1.getId() - u2.getId();
+        Collections.sort(userList, idComparator);
+        System.out.println(userList);
+
+        // Name 순으로 Sort
+        Collections.sort(userList, (u1, u2) -> u1.getName().compareTo(u2.getName()));
+        System.out.println(userList);
+    }
+}
+```
+출력결과
+```
+[User{id=3, name='A'}, User{id=1, name='B'}, User{id=5, name='C'}]
+[User{id=1, name='B'}, User{id=3, name='A'}, User{id=5, name='C'}]
+[User{id=3, name='A'}, User{id=1, name='B'}, User{id=5, name='C'}]
+```
