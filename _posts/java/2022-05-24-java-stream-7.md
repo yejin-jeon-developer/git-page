@@ -1,5 +1,5 @@
 ---
-title:  "Java Stream"
+title:  "Java Stream의 구성요소"
 excerpt: "Stream의 구성요소"
 categories:
   - java

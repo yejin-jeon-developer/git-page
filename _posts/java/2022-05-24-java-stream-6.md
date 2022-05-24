@@ -1,5 +1,5 @@
 ---
-title:  "Java Stream"
+title:  "Java Stream - Map"
 excerpt: "Map"
 categories:
   - java
