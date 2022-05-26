@@ -1,5 +1,5 @@
 ---
-title:  "Java Stream - FlatMap"
+title:  "Java Stream 5 - FlatMap"
 excerpt: "FlatMap"
 categories:
   - java

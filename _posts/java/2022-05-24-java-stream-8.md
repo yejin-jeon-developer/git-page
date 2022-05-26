@@ -1,5 +1,5 @@
 ---
-title:  "Java Stream - Sorted, Distinct"
+title:  "Java Stream 4 - Sorted, Distinct"
 excerpt: "Sorted, Distinct"
 categories:
   - java

@@ -1,5 +1,5 @@
 ---
-title:  "Java Stream"
+title:  "Java Stream 1"
 excerpt: "Stream"
 categories:
   - java
