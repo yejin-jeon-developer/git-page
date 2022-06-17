@@ -53,7 +53,6 @@ Collections.sort 사용시 Comparator를 넘겨줘서 sorting 가능
         list.sort(c);
         }
 ```
-
 ```java
   public class Study {
     public static void main(String[] args) {
@@ -74,6 +73,7 @@ Collections.sort 사용시 Comparator를 넘겨줘서 sorting 가능
     }
 }
 ```
+
 출력결과
 ```
 [User{id=3, name='A'}, User{id=1, name='B'}, User{id=5, name='C'}]
