@@ -10,7 +10,6 @@ categories:
 
 1. ClassName::staticMethodName
 클래스의 정적메소드를 호출
-
 ```java
 {
     int i = Integer.parseInt("1");
@@ -20,10 +19,8 @@ categories:
     System.out.println(n);
 }
 ```
-
 2. objectName::instanceMethodName
 이미 선언된 객체의 InstanceMethod를 호출
-
 ```java
 {
     String str = "Hello";
@@ -32,9 +29,7 @@ categories:
     System.out.println(equalsToHello.test("Bye"));
 }
 ```
-
 3. ClassName::instanceMethodName
-
 ```java
     {
         Function<String, Integer> strLength = String::length;
@@ -63,7 +58,6 @@ categories:
 ```
 4. ClassName::new
 클래스의 Constructor 호출
-
 ```java
 public class Chapter5S3 {
     public static void main(String[] args) {
@@ -97,7 +91,6 @@ public class Chapter5S3 {
     }
 }
 ```
-
 출력 결과
 ```
 Driving a sedan name Sonata from Hyundai
