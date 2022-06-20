@@ -98,15 +98,11 @@ public class Chapter5S3 {
 }
 ```
 
-
 출력 결과
-
-
 ```
 Driving a sedan name Sonata from Hyundai
 Driving a van name Sienna from Toyota
 Driving a sedan name Model S from Tesla
 Driving a suv name Sonata from KIA
-
 ```
 
