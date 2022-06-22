@@ -9,6 +9,7 @@ categories:
 - Collection 형태의 데이터를 람다를 이용해 간결하고 직관적으로 프로세스 해줌
 - 기존 loop 대체
 - 손쉽게 병렬 처리
+
 ```java
 public class Chapter6S1 {
     public static void main(String[] args) {
@@ -27,6 +28,7 @@ public class Chapter6S1 {
         System.out.println(numberList);
     }
 }
+
 ```
 출력 결과
 ```
@@ -36,11 +38,13 @@ public class Chapter6S1 {
 ```
 
 ### Filter
-만족하는 데이터만 걸러내는데 사용
-Predicate에 true 를 반환하는 데이터만 존재하는 Stream 반환
++ 만족하는 데이터만 걸러내는데 사용
++ Predicate에 true 를 반환하는 데이터만 존재하는 Stream 반환
+
 ```java
 Stream<T> filter(Predicate<? super T> predicate);
 ```
+
 ```java
 public class Chapter6S2 {
     public static void main(String[] args) {
