@@ -7,6 +7,7 @@ categories:
 ### Sorted
 - 데이터가 순서대로 정렬된 Stream을 리턴
 - 데이터 종류에따라 Comparator 필요할 수 있음
+
 ```java
     Stream<T> sorted();
 

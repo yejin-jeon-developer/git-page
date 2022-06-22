@@ -10,6 +10,7 @@ categories:
 - 데이터에 함수를 적용한 후 중첩된 Stream을 하나의 Stream으로 리턴 
 
 Function이 리턴이 R이 아니고 R이 들어있는 Stream
+
 ```java
     <R> Stream<R> flatMap(Function<? super T, ? extends Stream<? extends R>> mapper);
 ```

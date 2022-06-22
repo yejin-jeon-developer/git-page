@@ -7,6 +7,7 @@ categories:
 ### Stream의 구성요소
 - Stream Pipe Line
 - 소스(컬렉션, 배열) -> 중간처리(0개 이상의 filter, map) -> 종결처리(Collect, reduce)
+
 ```java
 public class Chapter6S4 {
     public static void main(String[] args) {
