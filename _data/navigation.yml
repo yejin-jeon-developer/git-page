@@ -8,6 +8,8 @@ main:
      url: /categories/react
    - title: "Java"
      url: /categories/java
+   - title: "Algorithm"
+     url: /categories/algorithm
    - title: "Dstagram"
      url: /categories/dstagram
   # - title: "Sample Posts"
