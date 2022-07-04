@@ -1,8 +1,7 @@
 ---
 title:  "Refactoring 1"
 excerpt: "리팩토링 책 주요내용 정리 1"
-categories:
-  - java
+categories: java
 ---
 ### Chapter 1  
 + 변경하기 어려운 구조라면 변경하기 쉬운 구조로 우선 변경
