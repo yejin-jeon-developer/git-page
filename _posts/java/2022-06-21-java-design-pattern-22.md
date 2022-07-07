@@ -1,8 +1,7 @@
 ---
 title:  "Design Pattern 4"
 excerpt: "Chain of Responsibility Pattern"
-categories:
-  - java
+categories: java
 ---
 ### Chain of Responsibility Pattern
 + 행동 패턴
