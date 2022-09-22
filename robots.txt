@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yejin-jeon-developer.github.io/git-page/sitemap.xml
