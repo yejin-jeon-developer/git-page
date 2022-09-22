@@ -1,5 +1,5 @@
 ---
-title:  "Java Functional Interface 2"
+title:  "Java Functional Interface 2 : Predicate, Comparator"
 excerpt: "Predicate, Comparator"
 categories:
   - java

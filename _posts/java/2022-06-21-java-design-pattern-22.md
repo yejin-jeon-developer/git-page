@@ -1,5 +1,5 @@
 ---
-title:  "Design Pattern 4"
+title:  "Design Pattern 4 - Chain of Responsibility Pattern"
 excerpt: "Chain of Responsibility Pattern"
 categories: java
 ---

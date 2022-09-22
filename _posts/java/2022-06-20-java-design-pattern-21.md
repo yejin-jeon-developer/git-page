@@ -1,5 +1,5 @@
 ---
-title:  "Design Pattern 3"
+title:  "Design Pattern 3 - Template Method Pattern"
 excerpt: "Template Method Pattern"
 categories:
   - java

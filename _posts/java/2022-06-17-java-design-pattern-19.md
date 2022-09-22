@@ -1,6 +1,6 @@
 ---
 title:  "Design Pattern 1"
-excerpt: ""
+excerpt: "Design Pattern 1"
 categories:
   - java
 ---

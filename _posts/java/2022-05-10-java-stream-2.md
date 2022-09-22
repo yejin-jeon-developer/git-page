@@ -1,5 +1,5 @@
 ---
-title:  "Java Functional Interface 1"
+title:  "Java Functional Interface 1 : Supplier, Consumer, BiConsumer"
 excerpt: "Supplier, Consumer, BiConsumer"
 categories:
   - java

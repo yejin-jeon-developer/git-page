@@ -1,5 +1,5 @@
 ---
-title:  "Object"
+title:  "Object : getClass(), hashCode(), equals()"
 excerpt: "Object Native Method"
 categories: java
 ---
